@@ -1,0 +1,22 @@
+{
+  "name": "fear-mail",
+  "version": "1.0.0",
+  "description": "Per\b\b\bIn\b\bWeb app for keeping mail from multiple emails and contacts\b infor\b",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/FearDread/fear-mail.git"
+  },
+  "keywords": [
+    "mailbag"
+  ],
+  "author": "Gar\b\b\bFearDread",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/FearDread/fear-mail/issues"
+  },
+  "homepage": "https://github.com/FearDread/fear-mail#readme"
+}
